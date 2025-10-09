@@ -144,7 +144,7 @@ html, body, #root{
   border-radius: 12px;
   box-shadow: 0 4px 24px rgba(31, 38, 135, 0.08);
 }
-
+/* Resources title */
 .resources-title {
   color: #000080;
   text-align: center;
