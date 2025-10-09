@@ -10,7 +10,7 @@ import Quiz from "./Quiz.jsx";
 import Profile from "./Profile.jsx";
 import Contact from "./Contact.jsx";
 import "./index.css";
-
+//Linked some new
 function Navbar() {
   return (
     <nav className="navbar">
